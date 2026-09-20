@@ -343,6 +343,7 @@ PRODUCT_PACKAGES += \
     libGLES_mali \
     libVK13_mali \
     libgpd1 \
+    libge2 \
     libGLES_meow \
     libMEOW_data \
     libMEOW_gift \
