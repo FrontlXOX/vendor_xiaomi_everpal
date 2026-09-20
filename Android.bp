@@ -2931,6 +2931,7 @@ cc_prebuilt_library_shared {
     },
     compile_multilib: "both",
     relative_install_path: "hw",
+    symlinks: ["vulkan.mt6833.so"],
     prefer: true,
     soc_specific: true,
 }
